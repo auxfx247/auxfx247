@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Market Insights - Multinational Trader's Zone</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 0; background: #0b0e14; color: #d1d4dc; }
+        .header { background: #131722; padding: 20px 40px; border-bottom: 1px. solid #2a2e39; display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 20px; font-weight: bold; color: #2962ff; }
+        .container { max-width: 800px; margin: 40px auto; background: #131722; padding: 40px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid #2a2e39; }
+        .meta { font-size: 13px; color: #848e9c; margin-bottom: 25px; border-bottom: 1px solid #2a2e39; padding-bottom: 15px; }
+        .tag { background: #2962ff; color: white; padding: 3px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; }
+        h1 { color: #ffffff; font-size: 26px; margin-top: 0; }
+        p { margin-bottom: 15px; }
+        .highlight { color: #089981; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="logo">Multinational Trader's Zone</div>
+    </div>
+
+    <div class="container">
+        <h1>Welcome Fresh & Pro Traders: The Global Financial Hub</h1>
+        <div class="meta">
+            <span><strong>Target Audience:</strong> Global (Fresh & Pro Traders)</span> | 
+            <span><strong>Language:</strong> English (Permanent)</span> | 
+            <span class="tag">Global</span> <span class="tag">FX & Crypto</span>
+        </div>
+
+        <p>Welcome to the ultimate cross-border networking zone designed specifically for traders across the globe. Whether you are taking your very first trade as a <strong>fresh beginner</strong> or managing complex institutional portfolios as a <strong>professional trader</strong>, this space is built for you.</p>
+
+        <p>Our global English edition ensures that language is never a barrier to market intelligence. Here, you will find high-probability setups, risk management frameworks, and real-time insights spanning major international financial markets.</p>
+
+        <p class="highlight">Stay connected, analyze sharp, and trade smart with our multinational network!</p>
+    </div>
+
+</body>
+</html>
